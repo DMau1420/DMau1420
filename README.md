@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **DMau1420/DMau1420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
